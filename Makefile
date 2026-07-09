@@ -1,4 +1,4 @@
-.PHONY: all generate_input build build-rust build-cpp build-java build-csharp build-go build-kotlin build-haskell run plot open-plots latex latex-debug
+.PHONY: all generate_input build build-rust build-cpp build-java build-csharp build-go build-kotlin build-haskell run plot open-plots report report-debug
 
 all: build run plot 
 
